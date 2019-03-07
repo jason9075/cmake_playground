@@ -1,0 +1,4 @@
+/Users/astra-jason-kuan/workspace/cmake_playground/bin/CMakeFiles/rebuild_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/bin/CMakeFiles/edit_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/bin/CMakeFiles/MyProgram.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/bin/CMakeFiles/MyLibrary.dir
