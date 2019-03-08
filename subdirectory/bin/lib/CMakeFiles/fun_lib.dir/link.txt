@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libFUN_LIB.a  CMakeFiles/FUN_LIB.dir/fun.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libFUN_LIB.a

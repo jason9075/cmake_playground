@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/MyProgram.dir/main.o  -o MyProgram  -L/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/lib -Wl,-rpath,/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/lib ../lib/libMyLibrary.a 

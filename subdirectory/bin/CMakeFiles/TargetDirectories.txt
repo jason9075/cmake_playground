@@ -1,0 +1,8 @@
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/CMakeFiles/rebuild_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/CMakeFiles/edit_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/lib/CMakeFiles/rebuild_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/lib/CMakeFiles/edit_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/lib/CMakeFiles/MyLibrary.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/src/CMakeFiles/rebuild_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/src/CMakeFiles/edit_cache.dir
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/bin/src/CMakeFiles/MyProgram.dir

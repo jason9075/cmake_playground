@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/fun.h
+
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/src/main.cpp
+fun.h
+/Users/astra-jason-kuan/workspace/cmake_playground/subdirectory/src/fun.h
+stdio.h
+-
+
